@@ -1,0 +1,12 @@
+.form{
+    background-color:darkgrey;
+    width: 500px;
+    margin: auto;
+    
+}
+.btn{
+    background-color: brown;
+}
+table, th {
+    border: 1px solid black;
+  }
